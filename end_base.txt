@@ -1,0 +1,1943 @@
+{Occupants:[{ActorIdentifier:"minecraft:npc<>",SaveData:{Actions:"[
+   {
+      "button_name" : "Build",
+      "data" : [
+         {
+			"cmd_line" : "/fill\t~3\t~-2\t~2\t~24\t~-2\t~2\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~3\t~-2\t~3\t~24\t~-2\t~3\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~3\t~-2\t~4\t~24\t~-2\t~4\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~3\t~-2\t~5\t~24\t~-2\t~5\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~3\t~-2\t~6\t~24\t~-2\t~6\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~3\t~-2\t~7\t~24\t~-2\t~7\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~3\t~-2\t~8\t~24\t~-2\t~8\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~3\t~-2\t~9\t~24\t~-2\t~9\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~3\t~-2\t~10\t~24\t~-2\t~10\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~3\t~-2\t~11\t~24\t~-2\t~11\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~3\t~-2\t~12\t~24\t~-2\t~12\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~3\t~-2\t~13\t~24\t~-2\t~13\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~3\t~-2\t~14\t~24\t~-2\t~14\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~3\t~-2\t~15\t~24\t~-2\t~15\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~3\t~-2\t~16\t~24\t~-2\t~16\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~3\t~-2\t~17\t~24\t~-2\t~17\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~3\t~-2\t~18\t~24\t~-2\t~18\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~3\t~-2\t~19\t~24\t~-2\t~19\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~3\t~-2\t~20\t~24\t~-2\t~20\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~3\t~-2\t~21\t~24\t~-2\t~21\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~3\t~-2\t~22\t~24\t~-2\t~22\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~5\t~-1\t~7\t~6\t~-1\t~7\tpurpur_block\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~5\t~-1\t~8\t~6\t~-1\t~8\tpurpur_block\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~5\t~-1\t~16\t~6\t~-1\t~16\tpurpur_block\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~5\t~-1\t~17\t~6\t~-1\t~17\tpurpur_block\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~9\t~-1\t~5\t~18\t~-1\t~5\tpurpur_stairs\t2\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~9\t~-1\t~6\t~9\t~-1\t~18\tpurpur_stairs\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~9\t~-1\t~19\t~11\t~-1\t~19\tpurpur_stairs\t3\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~12\t~-1\t~19\t~12\t~1\t~19\tpurpur_block\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~12\t~-1\t~20\t~12\t~0\t~20\tpurpur_block\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~12\t~-1\t~21\t~12\t~-1\t~19\tpurpur_block\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~13\t~-1\t~18\t~14\t~-1\t~18\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~13\t~-1\t~19\t~14\t~-1\t~19\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~13\t~-1\t~20\t~14\t~-1\t~20\tpurpur_stairs\t3\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~15\t~-1\t~19\t~15\t~1\t~19\tpurpur_block\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~15\t~-1\t~20\t~15\t~0\t~20\tpurpur_block\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~15\t~-1\t~21\t~15\t~-1\t~19\tpurpur_block\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~16\t~-1\t~19\t~17\t~-1\t~19\tpurpur_stairs\t3\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~18\t~-1\t~6\t~18\t~-1\t~19\tpurpur_stairs\t1\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~21\t~-1\t~7\t~22\t~-1\t~7\tpurpur_block\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~21\t~-1\t~8\tcobblestone_wall\t9\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~21\t~-1\t~16\t~22\t~-1\t~16\tpurpur_block\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~21\t~-1\t~17\t~22\t~-1\t~17\tpurpur_block\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~22\t~-1\t~8\t~22\t~5\t~8\tpurpur_block\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~5\t~0\t~7\t~6\t~0\t~7\tpurpur_block\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~5\t~0\t~8\t~5\t~2\t~8\tpurpur_block\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~5\t~0\t~16\t~5\t~5\t~16\tpurpur_block\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~5\t~0\t~17\tcobblestone_wall\t9",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~6\t~0\t~8\tcobblestone_wall\t9",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~6\t~0\t~16\tcobblestone_wall\t9\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~6\t~0\t~17\t~6\t~5\t~17\tpurpur_block\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~9\t~0\t~5\t~18\t~0\t~5\tcobblestone_wall\t9\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~9\t~0\t~6\t~9\t~0\t~19\tcobblestone_wall\t9\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~10\t~0\t~19\t~11\t~0\t~19\tcobblestone_wall\t9",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~12\t~0\t~21\tend_rod\t1\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~13\t~0\t~18\t~14\t~0\t~18\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~13\t~0\t~19\t~14\t~0\t~19\tpurpur_stairs\t3",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~15\t~0\t~21\tend_rod\t1\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~16\t~0\t~19\t~18\t~0\t~19\tcobblestone_wall\t9\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~18\t~0\t~6\t~18\t~0\t~19\tcobblestone_wall\t9\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~21\t~0\t~7\t~21\t~5\t~7\tpurpur_block\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~21\t~0\t~8\t~21\t~1\t~8\tpurpur_block\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~21\t~0\t~16\tcobblestone_wall\t9\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~21\t~0\t~17\t~21\t~4\t~17\tpurpur_block\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~22\t~0\t~7\tcobblestone_wall\t9\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~22\t~0\t~16\t~22\t~4\t~16\tpurpur_block\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~22\t~0\t~17\tcobblestone_wall\t9",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~5\t~1\t~7\tcobblestone_wall\t9\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~5\t~1\t~17\t~5\t~2\t~17\tpurpur_block\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~6\t~1\t~7\t~6\t~1\t~8\tpurpur_block\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~6\t~1\t~16\tpurpur_block\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~9\t~1\t~5\t~18\t~1\t~5\tpurpur_stairs\t6\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~9\t~1\t~6\t~9\t~1\t~18\tpurpur_stairs\t4\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~9\t~1\t~19\t~11\t~1\t~19\tpurpur_stairs\t7\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~10\t~1\t~6\t~17\t~1\t~6\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~10\t~1\t~7\t~17\t~1\t~7\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~10\t~1\t~8\t~14\t~1\t~8\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~10\t~1\t~9\t~15\t~1\t~9\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~10\t~1\t~10\t~11\t~1\t~10\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~10\t~1\t~11\t~13\t~1\t~11\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~10\t~1\t~12\t~12\t~1\t~12\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~10\t~1\t~13\t~17\t~1\t~13\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~10\t~1\t~14\t~14\t~1\t~14\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~10\t~1\t~15\t~11\t~1\t~15\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~10\t~1\t~16\t~10\t~1\t~18\tend_bricks\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~11\t~1\t~16\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~11\t~1\t~17\t~15\t~1\t~17\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~11\t~1\t~18\t~12\t~1\t~18\tend_bricks\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~12\t~1\t~10\tend_stone\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~12\t~1\t~15\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~12\t~1\t~16\t~17\t~1\t~16\tend_bricks\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~12\t~1\t~20\tend_rod\t1\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~13\t~1\t~10\t~15\t~1\t~10\tend_bricks\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~13\t~1\t~12\tend_stone\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~13\t~1\t~15\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~13\t~1\t~18\t~14\t~1\t~18\tpurpur_stairs\t3",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~14\t~1\t~11\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~14\t~1\t~12\t~17\t~1\t~12\tend_bricks\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~14\t~1\t~15\tend_stone\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~15\t~1\t~8\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~15\t~1\t~11\t~17\t~1\t~11\tend_bricks\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~15\t~1\t~14\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~15\t~1\t~15\t~17\t~1\t~15\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~15\t~1\t~18\t~17\t~1\t~18\tend_bricks\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~15\t~1\t~20\tend_rod\t1\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~16\t~1\t~8\t~17\t~1\t~8\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~16\t~1\t~9\t~16\t~1\t~10\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~16\t~1\t~14\t~17\t~1\t~14\tend_bricks\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~16\t~1\t~17\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~16\t~1\t~19\t~18\t~1\t~19\tpurpur_stairs\t7\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~17\t~1\t~9\t~17\t~1\t~18\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~18\t~1\t~6\t~18\t~1\t~18\tpurpur_stairs\t5\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~21\t~1\t~16\t~21\t~3\t~16\tpurpur_block\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~22\t~1\t~7\t~22\t~2\t~7\tpurpur_block\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~22\t~1\t~17\tpurpur_block\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~5\t~2\t~7\t~5\t~5\t~7\tpurpur_block\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~6\t~2\t~7\tcobblestone_wall\t9\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~6\t~2\t~8\t~6\t~5\t~8\tpurpur_block\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~6\t~2\t~16\tcobblestone_wall\t9\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~9\t~2\t~5\t~9\t~11\t~5\tpurpur_block\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~9\t~2\t~19\t~9\t~11\t~19\tpurpur_block\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~10\t~2\t~6\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~10\t~2\t~7\t~10\t~2\t~10\tpurpur_stairs\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~10\t~2\t~11\t~10\t~4\t~11\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~10\t~2\t~12\t~11\t~2\t~12\tpurpur_block\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~10\t~2\t~13\t~10\t~7\t~13\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~10\t~2\t~14\t~10\t~2\t~17\tpurpur_stairs\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~10\t~2\t~18\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~11\t~2\t~6\t~11\t~3\t~6\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~11\t~2\t~7\t~12\t~2\t~7\tchest\t3",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~11\t~2\t~18\tend_stone\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~12\t~2\t~6\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~12\t~2\t~12\t~12\t~6\t~12\tladder\t5\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~12\t~2\t~18\t~12\t~5\t~18\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~13\t~2\t~6\t~14\t~2\t~6\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~13\t~2\t~7\t~14\t~2\t~7\tender_chest\t3",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~15\t~2\t~6\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~15\t~2\t~7\t~16\t~2\t~7\tchest\t3\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~15\t~2\t~12\t~15\t~6\t~12\tladder\t4\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~15\t~2\t~18\t~17\t~2\t~18\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~16\t~2\t~6\t~17\t~2\t~6\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~16\t~2\t~12\t~17\t~2\t~12\tpurpur_block\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~17\t~2\t~7\t~17\t~2\t~10\tpurpur_stairs\t1\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~17\t~2\t~11\t~17\t~3\t~11\tend_bricks\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~17\t~2\t~13\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~17\t~2\t~14\t~17\t~2\t~17\tpurpur_stairs\t1\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~18\t~2\t~5\t~18\t~11\t~5\tpurpur_block\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~18\t~2\t~19\t~18\t~11\t~19\tpurpur_block\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~21\t~2\t~8\tcobblestone_wall\t9",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~22\t~2\t~17\tcobblestone_wall\t9",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~5\t~3\t~8\tcobblestone_wall\t9",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~5\t~3\t~17\tcobblestone_wall\t9\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~6\t~3\t~7\t~6\t~4\t~7\tpurpur_block\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~6\t~3\t~16\t~6\t~4\t~16\tpurpur_block\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~10\t~3\t~6\t~10\t~7\t~6\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~10\t~3\t~7\t~10\t~3\t~10\tstained_glass_pane\t10\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~10\t~3\t~12\t~11\t~3\t~12\tpurpur_block\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~10\t~3\t~14\t~10\t~3\t~17\tstained_glass_pane\t10",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~10\t~3\t~18\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~11\t~3\t~18\t~11\t~4\t~18\tstained_glass_pane\t10\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~12\t~3\t~6\t~15\t~3\t~6\tstained_glass_pane\t10\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~15\t~3\t~18\t~15\t~1\t~18\tend_bricks\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~16\t~3\t~6\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~16\t~3\t~12\t~17\t~3\t~12\tpurpur_block\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~16\t~3\t~18\t~16\t~4\t~18\tstained_glass_pane\t10\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~17\t~3\t~6\t~17\t~5\t~6\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~17\t~3\t~7\t~17\t~3\t~10\tstained_glass_pane\t10\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~17\t~3\t~13\t~17\t~7\t~13\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~17\t~3\t~14\t~17\t~3\t~17\tstained_glass_pane\t10",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~17\t~3\t~18\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~21\t~3\t~8\t~21\t~4\t~8\tpurpur_block\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~22\t~3\t~7\tcobblestone_wall\t9\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~22\t~3\t~17\t~22\t~5\t~17\tpurpur_block\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~5\t~4\t~8\t~5\t~5\t~8\tpurpur_block\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~5\t~4\t~17\t~5\t~5\t~17\tpurpur_block\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~10\t~4\t~7\t~10\t~4\t~10\tpurpur_stairs\t4",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~10\t~4\t~12\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~10\t~4\t~14\t~10\t~4\t~17\tpurpur_stairs\t4",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~10\t~4\t~18\tend_bricks\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~11\t~4\t~6\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~11\t~4\t~12\t~11\t~6\t~12\tpurpur_block\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~12\t~4\t~6\t~15\t~4\t~6\tstained_glass_pane\t10",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~15\t~4\t~18\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~16\t~4\t~6\t~16\t~11\t~6\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~16\t~4\t~12\t~16\t~5\t~12\tpurpur_block\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~17\t~4\t~7\t~17\t~4\t~10\tpurpur_stairs\t5",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~17\t~4\t~11\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~17\t~4\t~12\t~17\t~6\t~12\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~17\t~4\t~14\t~17\t~4\t~17\tpurpur_stairs\t5\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~17\t~4\t~18\t~17\t~7\t~18\tend_bricks\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~21\t~4\t~16\tcobblestone_wall\t9\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~22\t~4\t~7\t~22\t~5\t~7\tpurpur_block\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~6\t~5\t~7\tcobblestone_wall\t9",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~6\t~5\t~16\tcobblestone_wall\t9\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~10\t~5\t~7\t~10\t~6\t~7\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~10\t~5\t~8\t~10\t~6\t~8\tend_bricks\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~10\t~5\t~9\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~10\t~5\t~10\t~10\t~6\t~10\tend_bricks\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~10\t~5\t~11\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~10\t~5\t~12\t~10\t~6\t~12\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~10\t~5\t~14\t~10\t~5\t~17\tend_bricks\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~10\t~5\t~18\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~11\t~5\t~6\t~13\t~5\t~6\tend_bricks\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~11\t~5\t~8\tend_rod\t4",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~11\t~5\t~11\tend_rod\t4",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~11\t~5\t~13\tend_rod\t4",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~11\t~5\t~16\tend_rod\t4\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~11\t~5\t~18\t~11\t~7\t~18\tend_bricks\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~12\t~5\t~8\tend_rod\t5",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~12\t~5\t~11\tend_rod\t5",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~12\t~5\t~13\tend_rod\t5",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~12\t~5\t~16\tend_rod\t5",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~13\t~5\t~8\tend_rod\t4",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~13\t~5\t~11\tend_rod\t4",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~13\t~5\t~13\tend_rod\t4",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~13\t~5\t~16\tend_rod\t4\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~13\t~5\t~18\t~13\t~9\t~18\tend_bricks\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~14\t~5\t~6\tend_stone\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~14\t~5\t~8\tend_rod\t5",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~14\t~5\t~11\tend_rod\t5",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~14\t~5\t~13\tend_rod\t5",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~14\t~5\t~16\tend_rod\t5",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~14\t~5\t~18\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~15\t~5\t~6\t~15\t~7\t~6\tend_bricks\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~15\t~5\t~8\tend_rod\t4",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~15\t~5\t~11\tend_rod\t4",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~15\t~5\t~13\tend_rod\t4",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~15\t~5\t~16\tend_rod\t4\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~15\t~5\t~18\t~17\t~5\t~18\tend_bricks\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~16\t~5\t~8\tend_rod\t5",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~16\t~5\t~11\tend_rod\t5",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~16\t~5\t~13\tend_rod\t5",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~16\t~5\t~16\tend_rod\t5\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~17\t~5\t~7\t~17\t~6\t~7\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~17\t~5\t~8\t~17\t~6\t~8\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~17\t~5\t~9\t~17\t~6\t~9\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~17\t~5\t~10\t~17\t~6\t~10\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~17\t~5\t~11\t~17\t~5\t~6\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~17\t~5\t~14\t~17\t~5\t~15\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~17\t~5\t~16\t~17\t~5\t~17\tend_stone\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~21\t~5\t~8\tcobblestone_wall\t9",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~21\t~5\t~16\tpurpur_block\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~21\t~5\t~17\tcobblestone_wall\t9",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~22\t~5\t~16\tcobblestone_wall\t9\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~4\t~6\t~5\t~23\t~6\t~5\tpurpur_block\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~4\t~6\t~6\t~4\t~6\t~19\tpurpur_block\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~5\t~6\t~6\t~8\t~6\t~6\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~5\t~6\t~7\t~8\t~6\t~7\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~5\t~6\t~8\t~8\t~6\t~8\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~5\t~6\t~9\t~8\t~6\t~9\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~5\t~6\t~10\t~8\t~6\t~10\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~5\t~6\t~11\t~8\t~6\t~11\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~5\t~6\t~12\t~8\t~6\t~12\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~5\t~6\t~13\t~8\t~6\t~13\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~5\t~6\t~14\t~8\t~6\t~14\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~5\t~6\t~15\t~8\t~6\t~15\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~5\t~6\t~16\t~8\t~6\t~16\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~5\t~6\t~17\t~8\t~6\t~17\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~5\t~6\t~18\t~8\t~6\t~18\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~5\t~6\t~19\t~23\t~6\t~19\tpurpur_block\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~9\t~6\t~6\t~9\t~6\t~19\tpurpur_block\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~10\t~6\t~9\t~17\t~6\t~9\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~10\t~6\t~11\t~12\t~6\t~11\tend_bricks\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~10\t~6\t~14\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~10\t~6\t~15\t~15\t~6\t~15\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~10\t~6\t~16\t~10\t~6\t~15\tend_bricks\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~10\t~6\t~17\tend_stone\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~10\t~6\t~18\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~11\t~6\t~6\t~11\t~9\t~6\tend_bricks\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~11\t~6\t~7\tend_stone\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~11\t~6\t~8\tend_bricks\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~11\t~6\t~10\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~11\t~6\t~13\t~12\t~6\t~13\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~11\t~6\t~14\t~11\t~6\t~13\tend_bricks\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~11\t~6\t~16\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~11\t~6\t~17\t~13\t~6\t~17\tend_bricks\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~12\t~6\t~6\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~12\t~6\t~7\t~13\t~6\t~7\tend_bricks\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~12\t~6\t~8\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~12\t~6\t~10\t~14\t~6\t~10\tend_bricks\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~12\t~6\t~14\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~12\t~6\t~16\t~17\t~6\t~16\tend_bricks\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~12\t~6\t~18\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~13\t~6\t~6\t~16\t~6\t~6\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~13\t~6\t~8\t~14\t~6\t~8\tend_bricks\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~13\t~6\t~11\tend_stone\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~13\t~6\t~13\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~13\t~6\t~14\t~16\t~6\t~14\tend_bricks\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~14\t~6\t~7\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~14\t~6\t~11\t~16\t~6\t~11\tend_bricks\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~14\t~6\t~13\tend_bricks\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~14\t~6\t~17\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~14\t~6\t~18\t~17\t~6\t~18\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~15\t~6\t~7\t~17\t~6\t~7\tend_bricks\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~15\t~6\t~8\tend_stone\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~15\t~6\t~10\tend_stone\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~15\t~6\t~13\tend_stone\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~15\t~6\t~17\tend_bricks\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~16\t~6\t~8\tend_bricks\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~16\t~6\t~10\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~16\t~6\t~12\t~16\t~6\t~14\tend_bricks\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~16\t~6\t~15\tend_stone\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~16\t~6\t~17\tend_stone\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~17\t~6\t~6\tend_stone\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~17\t~6\t~11\tend_stone\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~17\t~6\t~14\tend_stone\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~17\t~6\t~15\tend_bricks\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~17\t~6\t~17\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~18\t~6\t~6\t~18\t~6\t~19\tpurpur_block\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~19\t~6\t~6\t~22\t~6\t~6\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~19\t~6\t~7\t~22\t~6\t~7\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~19\t~6\t~8\t~22\t~6\t~8\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~19\t~6\t~9\t~22\t~6\t~9\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~19\t~6\t~10\t~22\t~6\t~10\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~19\t~6\t~11\t~22\t~6\t~11\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~19\t~6\t~12\t~22\t~6\t~12\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~19\t~6\t~13\t~22\t~6\t~13\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~19\t~6\t~14\t~22\t~6\t~14\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~19\t~6\t~15\t~22\t~6\t~15\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~19\t~6\t~16\t~22\t~6\t~16\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~19\t~6\t~17\t~22\t~6\t~17\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~19\t~6\t~18\t~22\t~6\t~18\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~23\t~6\t~6\t~23\t~6\t~19\tpurpur_block\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~4\t~7\t~5\t~8\t~7\t~5\tcobblestone_wall\t9\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~4\t~7\t~6\t~4\t~7\t~19\tcobblestone_wall\t9\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~5\t~7\t~19\t~8\t~7\t~19\tcobblestone_wall\t9\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~10\t~7\t~7\t~10\t~7\t~10\tpurpur_stairs\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~10\t~7\t~11\t~10\t~6\t~11\tend_bricks\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~10\t~7\t~12\tbirch_door\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~10\t~7\t~14\t~10\t~7\t~17\tpurpur_stairs\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~10\t~7\t~18\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~12\t~7\t~6\t~17\t~7\t~6\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~12\t~7\t~18\t~12\t~11\t~18\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~13\t~7\t~17\t~14\t~7\t~17\tladder\t2\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~14\t~7\t~18\t~17\t~7\t~18\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~17\t~7\t~7\t~17\t~7\t~10\tpurpur_stairs\t1\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~17\t~7\t~11\t~17\t~11\t~11\tend_bricks\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~17\t~7\t~12\tbirch_door\t2\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~17\t~7\t~14\t~17\t~7\t~17\tpurpur_stairs\t1\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~19\t~7\t~5\t~23\t~7\t~5\tcobblestone_wall\t9\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~19\t~7\t~19\t~23\t~7\t~19\tcobblestone_wall\t9\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~23\t~7\t~6\t~23\t~7\t~19\tcobblestone_wall\t9",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~4\t~8\t~5\tend_rod\t1",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~4\t~8\t~19\tend_rod\t1",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~10\t~8\t~6\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~10\t~8\t~7\t~10\t~8\t~10\tstained_glass_pane\t10",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~10\t~8\t~11\tend_stone\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~10\t~8\t~12\tbirch_door\t8",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~10\t~8\t~13\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~10\t~8\t~14\t~10\t~8\t~17\tstained_glass_pane\t10\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~10\t~8\t~18\t~10\t~11\t~18\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~11\t~8\t~18\t~11\t~9\t~18\tstained_glass_pane\t10\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~12\t~8\t~6\t~15\t~8\t~6\tstained_glass_pane\t10\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~13\t~8\t~17\t~14\t~8\t~17\tladder\t2",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~14\t~8\t~18\tend_stone\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~15\t~8\t~18\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~16\t~8\t~18\t~16\t~9\t~18\tstained_glass_pane\t10",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~17\t~8\t~6\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~17\t~8\t~7\t~17\t~8\t~10\tstained_glass_pane\t10",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~17\t~8\t~12\tbirch_door\t8",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~17\t~8\t~13\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~17\t~8\t~14\t~17\t~8\t~17\tstained_glass_pane\t10",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~17\t~8\t~18\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~10\t~9\t~6\t~10\t~11\t~6\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~10\t~9\t~7\t~10\t~9\t~10\tpurpur_stairs\t4\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~10\t~9\t~11\t~10\t~11\t~11\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~10\t~9\t~12\t~10\t~11\t~12\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~10\t~9\t~13\t~10\t~11\t~13\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~10\t~9\t~14\t~10\t~9\t~17\tpurpur_stairs\t4\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~12\t~9\t~6\t~15\t~9\t~6\tstained_glass_pane\t10\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~13\t~9\t~17\t~14\t~9\t~17\tladder\t2\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~14\t~9\t~18\t~14\t~11\t~18\tend_bricks\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~15\t~9\t~18\tend_stone\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~17\t~9\t~6\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~17\t~9\t~7\t~17\t~9\t~10\tpurpur_stairs\t5",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~17\t~9\t~12\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~17\t~9\t~13\t~17\t~11\t~13\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~17\t~9\t~14\t~17\t~9\t~17\tpurpur_stairs\t5\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~17\t~9\t~18\t~17\t~11\t~18\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~10\t~10\t~7\t~10\t~11\t~7\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~10\t~10\t~8\t~10\t~11\t~8\tend_bricks\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~10\t~10\t~9\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~10\t~10\t~10\t~10\t~11\t~10\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~10\t~10\t~14\t~10\t~11\t~14\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~10\t~10\t~15\t~10\t~11\t~15\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~10\t~10\t~16\t~10\t~10\t~15\tend_bricks\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~10\t~10\t~17\tend_stone\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~11\t~10\t~6\tend_stone\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~11\t~10\t~8\tend_rod\t4",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~11\t~10\t~11\tend_rod\t4",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~11\t~10\t~13\tend_rod\t4",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~11\t~10\t~16\tend_rod\t4\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~11\t~10\t~18\t~11\t~11\t~18\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~12\t~10\t~6\t~17\t~10\t~6\tend_bricks\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~12\t~10\t~8\tend_rod\t5",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~12\t~10\t~11\tend_rod\t5",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~12\t~10\t~13\tend_rod\t5",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~12\t~10\t~16\tend_rod\t5",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~13\t~10\t~8\tend_rod\t4",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~13\t~10\t~11\tend_rod\t4",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~13\t~10\t~13\tend_rod\t4",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~13\t~10\t~16\tend_rod\t4\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~13\t~10\t~17\t~14\t~10\t~17\tladder\t2\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~13\t~10\t~18\t~13\t~11\t~18\tend_stone\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~14\t~10\t~8\tend_rod\t5",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~14\t~10\t~11\tend_rod\t5",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~14\t~10\t~13\tend_rod\t5",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~14\t~10\t~16\tend_rod\t5",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~15\t~10\t~8\tend_rod\t4",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~15\t~10\t~11\tend_rod\t4",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~15\t~10\t~13\tend_rod\t4",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~15\t~10\t~16\tend_rod\t4\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~15\t~10\t~18\t~17\t~10\t~18\tend_bricks\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~16\t~10\t~8\tend_rod\t5",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~16\t~10\t~11\tend_rod\t5",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~16\t~10\t~13\tend_rod\t5",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~16\t~10\t~16\tend_rod\t5\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~17\t~10\t~7\t~17\t~11\t~7\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~17\t~10\t~8\t~17\t~11\t~8\tend_bricks\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~17\t~10\t~9\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~17\t~10\t~10\t~17\t~11\t~10\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~17\t~10\t~12\t~17\t~11\t~12\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~17\t~10\t~14\t~17\t~11\t~14\tend_bricks\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~17\t~10\t~15\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~17\t~10\t~16\t~17\t~10\t~18\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~9\t~11\t~6\t~9\t~11\t~19\tpurpur_block\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~10\t~11\t~5\t~18\t~11\t~5\tpurpur_block\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~10\t~11\t~9\t~12\t~11\t~9\tend_bricks\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~10\t~11\t~16\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~10\t~11\t~17\t~11\t~11\t~17\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~10\t~11\t~19\t~18\t~11\t~19\tpurpur_block\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~11\t~11\t~6\t~12\t~11\t~6\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~11\t~11\t~7\t~11\t~11\t~14\tend_bricks\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~11\t~11\t~15\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~11\t~11\t~16\t~16\t~11\t~16\tend_bricks\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~12\t~11\t~7\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~12\t~11\t~8\t~17\t~11\t~8\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~12\t~11\t~10\t~15\t~11\t~10\tend_bricks\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~12\t~11\t~11\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~12\t~11\t~12\t~17\t~11\t~12\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~12\t~11\t~13\t~13\t~11\t~13\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~12\t~11\t~14\t~13\t~11\t~14\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~12\t~11\t~15\t~17\t~11\t~15\tend_bricks\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~12\t~11\t~17\tend_stone\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~13\t~11\t~6\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~13\t~11\t~7\t~15\t~11\t~7\tend_bricks\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~13\t~11\t~9\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~13\t~11\t~11\t~14\t~11\t~11\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~13\t~11\t~17\t~14\t~11\t~17\tladder\t2\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~14\t~11\t~6\t~16\t~11\t~6\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~14\t~11\t~9\t~17\t~11\t~9\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~14\t~11\t~13\t~14\t~11\t~14\tend_stone\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~15\t~11\t~11\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~15\t~11\t~13\t~17\t~11\t~13\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~15\t~11\t~14\t~17\t~11\t~14\tend_bricks\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~15\t~11\t~17\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~15\t~11\t~18\t~17\t~11\t~18\tend_bricks\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~16\t~11\t~7\tend_stone\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~16\t~11\t~10\tend_stone\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~16\t~11\t~11\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~16\t~11\t~17\t~17\t~11\t~17\tend_bricks\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~17\t~11\t~6\tend_stone\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~17\t~11\t~16\tend_stone\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~18\t~11\t~6\t~18\t~11\t~19\tpurpur_block\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~9\t~12\t~5\tend_rod\t1",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~9\t~12\t~19\tend_rod\t1\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~12\t~12\t~13\t~12\t~11\t~13\tend_bricks\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~13\t~12\t~8\t~14\t~12\t~8\tweb\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~15\t~12\t~13\t~15\t~11\t~13\tend_bricks\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~18\t~12\t~5\tend_rod\t1",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~18\t~12\t~19\tend_rod\t1",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~12\t~13\t~14\tweb\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~12\t~13\t~15\tfence_gate\t4\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~13\t~13\t~7\t~14\t~13\t~7\tweb\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~15\t~13\t~14\tweb\t0",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/setblock\t~15\t~13\t~15\tfence_gate\t4\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~13\t~14\t~8\t~14\t~14\t~8\tweb\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~13\t~15\t~7\t~14\t~15\t~7\tweb\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~13\t~16\t~8\t~14\t~16\t~8\tweb\t0\t",
+            "cmd_ver" : 12
+         },
+         {
+            "cmd_line" : "/fill\t~13\t~17\t~7\t~14\t~17\t~7\tweb\t0\t",
+			"cmd_ver" : 12
+		 }
+      ],
+      "mode" : 0,
+      "text" : "2",
+      "type" : 1
+   },
+   {
+      "button_name" : "KillButton",
+      "data" : [
+         {
+            "cmd_line" : "kill@e[type=npc,r=1]",
+            "cmd_ver" : 12
+         }
+      ],
+      "mode" : 0,
+      "text" : "kill@e[type=npc,r=1]",
+      "type" : 1
+   }
+]
+",CustomName:"NPC",Variant:19,Ticking:1b,TicksLeftToStay:1}]}
